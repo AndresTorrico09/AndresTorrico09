@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Andy 👋
+
+- 🔭 I’m currently working as Android Developer.
+- 🌱 I worked for different companies and as freelance.
+- ⚡ I love travelling around the world and in my free time I like cycling.
 
 <!--
 **AndresTorrico09/AndresTorrico09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
