@@ -1,9 +1,8 @@
 ### Hi there, I'm Andy 👋
 
 - 😄 I'm from Argentina, enthusiast of the best mobile development and passionate about tech.
-- 🔭 I’m currently working as Android Developer.
-- 🌱 I work for different companies and as freelance.
-- ⚡ I love travelling around the world and in my free time I like cycling.
+- 🔭 I’m currently working as Android Developer for different companies and as freelance.
+- ⚡ I love travelling around the world and in my free time I like cycling and listening to music.
 
 
 <!--
